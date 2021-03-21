@@ -4,7 +4,7 @@ This Protuino uno library is modified version of simulino library with some new 
 
 ## Boards Available (More boards are comming soon) :
 
-- [x] Arduino Uno
+:heavy_check_mark:Arduino Uno
 - [ ] Arduino Nano
 - [ ] Arduino Mega
 - [ ] Aduino Pro Mini
