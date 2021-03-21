@@ -8,3 +8,10 @@ This Protuino uno library is modified version of simulino library with some new 
 - [ ] Arduino Nano
 - [ ] Arduino Mega
 - [ ] Aduino Pro Mini
+
+### How to add in proteus :
+
+* Download or Clone Protuino Library for proteus repository and copy PROTUINO.IDX and PROTUINO.LIB file.
+* Now open your proteus installation directorty, then find library folder and paste both files there.
+* Restart your Proteus Professional and open library manager.
+* Search "Protuino" and you will find protuino library inside library manager, select it and place it in schematic workplace and start simulation.
